@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: QuestPlates
+## Notes: Shows ! on nameplates for quest objective mobs (pfUI compatible)
+## Dependencies: pfUI
+## SavedVariables: QuestPlatesDB
+QuestPlates.lua
