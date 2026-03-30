@@ -4,3 +4,4 @@
 ## Dependencies: pfUI
 ## SavedVariables: QuestPlatesDB
 QuestPlates.lua
+update
