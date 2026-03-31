@@ -21,6 +21,12 @@
 
 ---
 
+<p align="center">
+  <img src="img/preview.png" alt="QuestPlates Preview" width="600">
+</p>
+
+---
+
 ## What is this?
 
 QuestPlates adds a golden **"!"** to the nameplates of mobs related to your active quests — just like modern WoW, but for Vanilla 1.12.1.
