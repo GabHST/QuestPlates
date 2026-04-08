@@ -52,11 +52,19 @@ Uses **pfQuest's database** to find which mobs you need, even for item drop ques
 
 ## Installation
 
+1. Download `QuestPlates.zip` from the [Releases](https://github.com/GabHST/QuestPlates/releases) page (or use the button above).
+2. Extract the **QuestPlates** folder into your `WoW/Interface/AddOns/` directory.
+3. Restart WoW or type `/reload`.
+
+Your final folder structure should look like this:
+
 ```
-1. Download the ZIP (button above)
-2. Extract "QuestPlates" folder into: WoW/Interface/AddOns/
-3. Restart WoW or /reload
+Interface/AddOns/QuestPlates/
+├── QuestPlates.lua
+└── QuestPlates.toc
 ```
+
+> **Do NOT use the green "Code" button or download "Source code (zip)" from GitHub.** These create a nested folder (e.g. `QuestPlates-main/QuestPlates/...`) that WoW won't recognize. Always download from the **Releases** page.
 
 ### Requirements
 
